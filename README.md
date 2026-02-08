@@ -32,8 +32,7 @@ AI-powered data processing system that automates document analysis and transform
 
 ## GitHub Stats
 
-![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidenmak0624&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aidenmak0624&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=aidenmak0624&theme=tokyonight&hide_border=true)
 
 ## Let's Connect
 
