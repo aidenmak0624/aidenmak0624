@@ -18,6 +18,11 @@ I partnered with the **Canadian Museum for Human Rights** to build an AI educati
 
 ## Featured Projects
 
+### 🍴 [The Golden Fork](https://golden-fork-9tn2.onrender.com) — Full-Stack AI Restaurant Platform `NEW`
+End-to-end restaurant ordering system with an AI-powered menu assistant. Built a RAG pipeline (OpenAI embeddings + Pinecone vector search) that understands dietary needs, recommends dishes, and suggests pairings in real time. Includes Stripe checkout, WebSocket-driven kitchen display system, manager dashboard with sales velocity and menu engineering analytics, and a customer feedback loop. Deployed on Render.
+
+**Stack:** Next.js 15 · TypeScript · React · Tailwind CSS · OpenAI API · Pinecone · Stripe · WebSocket · Recharts
+
 ### [Upstander Program](https://github.com/aidenmak0624/Upstander_Program) — CMHR Partnership
 AI-enhanced educational platform built in partnership with the Canadian Museum for Human Rights. Conversational AI, strength assessments, and scenario-based simulations across 6 learning modules.
 
