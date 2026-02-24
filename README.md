@@ -18,8 +18,11 @@ From multi-agent orchestration with LangGraph to RAG pipelines and full-stack pl
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
@@ -41,6 +44,9 @@ Enterprise-grade platform orchestrating **8 specialized LangGraph agents** for a
 End-to-end restaurant ordering system with an AI-powered menu assistant. RAG pipeline (OpenAI embeddings + Pinecone vector search) for dietary recommendations and dish pairings. Stripe checkout, WebSocket-driven kitchen display, manager dashboard with sales analytics, and customer feedback loop.
 
 **Stack:** Next.js 15 · TypeScript · React · Tailwind CSS · OpenAI API · Pinecone · Stripe · WebSocket · Recharts
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Render-46E3B7?style=flat&logo=render&logoColor=white)](https://golden-fork-9tn2.onrender.com)
+[![Case Study](https://img.shields.io/badge/Case_Study-Golden_Fork-000000?style=flat&logo=vercel&logoColor=white)](https://aidenmak.vercel.app/showcase/golden-fork.html)
 
 ---
 
