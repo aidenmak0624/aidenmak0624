@@ -36,6 +36,8 @@ Enterprise-grade platform orchestrating **8 specialized LangGraph agents** for a
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)](https://hr-platform-837558695367.us-central1.run.app/dashboard)
 [![Case Study](https://img.shields.io/badge/Case_Study-Vibe_Coding-000000?style=flat&logo=vercel&logoColor=white)](https://aidenmak.vercel.app/showcase/hr-agent-vibe-coding.html)
+[![Business](https://img.shields.io/badge/Business_Showcase-6366f1?style=flat&logo=vercel&logoColor=white)](https://aidenmak.vercel.app/showcase/hr-agent-business.html)
+[![Developer](https://img.shields.io/badge/Developer_Deep--Dive-1e293b?style=flat&logo=vercel&logoColor=white)](https://aidenmak.vercel.app/showcase/hr-agent-developer.html)
 
 ---
 
