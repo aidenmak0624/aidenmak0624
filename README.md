@@ -28,6 +28,8 @@ Anyone can demo AI. I ship it to production — and prove it works. I build agen
 - **Live:** https://review-lens-ai-five.vercel.app
 - **Repo:** https://github.com/aidenmak0624/ReviewLensAI · **How the evals work:** https://aidenmak.com/finding-llm-judge-evals.html
 
+![ReviewLens AI demo — a cited answer opens the exact review behind it](./reviewlens-ai.gif)
+
 ---
 
 ### DecisionEase
