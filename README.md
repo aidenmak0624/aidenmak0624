@@ -17,6 +17,8 @@ Anyone can demo AI. I ship it to production — and prove it works. I build agen
 - **Live:** https://hr-platform-1054475963653.us-central1.run.app/dashboard
 - **Repo:** https://github.com/aidenmak0624/HR-Intelligence-platform · **Case study:** https://aidenmak.com/hr-intelligence.html
 
+![HR Intelligence Platform demo](./hr-intelligence-platform.gif)
+
 ---
 
 ### ReviewLens AI
@@ -35,6 +37,8 @@ Anyone can demo AI. I ship it to production — and prove it works. I build agen
 - **Live:** https://decisionease.vercel.app · **Landing:** https://decisionease.pages.dev/our-stories
 - **Case study:** https://aidenmak.com/decisionease.html *(repo private — code available on request)*
 
+![DecisionEase demo](./decisionease.gif)
+
 ---
 
 ### The Golden Fork
@@ -42,6 +46,8 @@ Anyone can demo AI. I ship it to production — and prove it works. I build agen
 
 - **Live:** https://golden-fork-9tn2.onrender.com *(free tier — allow ~30s cold start)*
 - **Repo:** https://github.com/aidenmak0624/golden-fork
+
+![The Golden Fork demo](./the-golden-fork.gif)
 
 ---
 
